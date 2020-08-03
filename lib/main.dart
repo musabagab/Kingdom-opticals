@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Kingdom optical',
+      title: 'Sudanease Soug',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         // is not restarted.
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text(
-            'نظارت المملكة',
+            'السوق السوداني',
             style: TextStyle(fontSize: 40),
           ),
           centerTitle: true,

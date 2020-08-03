@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
         ),
         body: SafeArea(
             child: WebView(
-          initialUrl: 'http://kingdomoptical.byethost14.com/?i=1',
+          initialUrl: 'http://sogelectroni.byethost7.com/index.html',
           javascriptMode: JavascriptMode.unrestricted,
         )),
       ),
